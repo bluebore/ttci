@@ -5,3 +5,6 @@ ttci: ttci.cc
 
 clean:
 	rm -rf ttci
+
+test:
+	./ttci
