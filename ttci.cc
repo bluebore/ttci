@@ -8,6 +8,6 @@
 
 int main() {
 	printf("Hello Travil CI.\n");
-	return 1;
+	return 0;
 }
 
